@@ -1,0 +1,2 @@
+Premain-Class: SimpleInstru
+Class-Path: byte-buddy-1.10.22.jar
